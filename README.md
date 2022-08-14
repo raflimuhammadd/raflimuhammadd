@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Tech or Whatever you need**
 
-- 📫 How to reach me **raflimuhh09@gmail.com**
-
 - ⚡ Fun fact **I think I am a Sleepy Guy**
 
 <h3 align="left">Connect with me:</h3>
