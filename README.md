@@ -1,6 +1,6 @@
 [![MasterHead](https://res.cloudinary.com/cloudinary-marketing/images/c_fill,w_700/f_auto,q_auto/v1649720751/Web_Assets/blog/Mario_1/Mario_1-gif?_i=AA)](https://raflimuhammadd.io)
 <h1 align="center">Hello 👋, I'm Rafli Muhammadd</h1>
-<h3 align="center">College Students in Indonesia</h3>
+<h3 align="center">Currently a College Students</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raflimuhammadd&label=Profile%20views&color=0e75b6&style=flat" alt="raflimuhammadd" /> </p>
