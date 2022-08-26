@@ -1,4 +1,4 @@
-[![MasterHead](https://user-dashboard.s3.us-east-2.amazonaws.com/nft-metadata/0xd07dc4262bcdbf85190c01c996b4c06a461d2430/567544.gif)](https://raflimuhammadd.io)
+[![MasterHead](https://media0.giphy.com/headers/aahsocute/vHe508eT6a2d.gif)](https://raflimuhammadd.io)
 <h1 align="center">Hii 👋, I'm Rafli Muhammadd</h1>
 <h3 align="center">a student who is looking for his identity</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
