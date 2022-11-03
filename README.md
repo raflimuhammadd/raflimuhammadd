@@ -1,4 +1,4 @@
-[![MasterHead](([https://www.cbc.ca/kidsnews/content/SkateboardCat.gif))](https://raflimuhammadd.io)
+[![MasterHead](https://www.cbc.ca/kidsnews/content/SkateboardCat.gif)](https://raflimuhammadd.io)
 <h1 align="center">Hii 👋, I'm Rafli Muhammadd</h1>
 <h3 align="center">a student who is looking for his identity</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
