@@ -1,4 +1,4 @@
-[![MasterHead]([https://media0.giphy.com/headers/aahsocute/vHe508eT6a2d.gif](https://media.tenor.com/Dth43WDlzZcAAAAd/cat-moving.gif))](https://raflimuhammadd.io)
+[![MasterHead]([https://media.tenor.com/Dth43WDlzZcAAAAd/cat-moving.gif))](https://raflimuhammadd.io)
 <h1 align="center">Hii 👋, I'm Rafli Muhammadd</h1>
 <h3 align="center">a student who is looking for his identity</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
