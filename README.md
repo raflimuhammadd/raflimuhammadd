@@ -33,8 +33,8 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
   <br> -->
-  📫 How to reach me: <a href="mailto: raffllmuhammadd9@gmail.com">raffllmuhammadd9@gmail.com</a>
-</p>
+<!--  📫 How to reach me: <a href="mailto: raffllmuhammadd9@gmail.com">raffllmuhammadd9@gmail.com</a>
+</p> -->
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
