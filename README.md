@@ -3,10 +3,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=raflimuhammadd.raflimuhammadd">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rafli+Muhammad....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=900&size=30&duration=4990&pause=980&color=F77D09&center=true&multiline=true&width=435&height=140&lines=Hello+There+%F0%9F%91%8B!+;This+is+Raffh+Muhh;Nice+To+Meet+You+%F0%9F%8D%9C" alt="Typing SVG" /></a>
 </h1>
+
+
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/raflimuhammadd/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
