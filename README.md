@@ -6,8 +6,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=900&size=30&duration=4990&pause=980&color=F77D09&center=true&multiline=true&width=435&height=140&lines=Hello+There+%F0%9F%91%8B!+;This+is+Raffh+Muhh+%F0%9F%8D%9C" alt="Typing SVG" /></a>
 </h1>
 
-
-
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/raflimuhammadd/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
@@ -35,6 +33,7 @@
   <br> -->
 <!--  📫 How to reach me: <a href="mailto: raffllmuhammadd9@gmail.com">raffllmuhammadd9@gmail.com</a>
 </p> -->
+
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
@@ -72,6 +71,7 @@
   <!-- <code><img title="Flask" height="25" src="images/flask.png"></code> -->
 </p>
 <hr>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
