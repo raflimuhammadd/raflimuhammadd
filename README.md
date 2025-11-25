@@ -40,6 +40,7 @@
 <br>
 <p align="center">
   <!-- <code><img title="C" height="25" src="images/c.svg"></code> -->
+  <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="Golang" height="25" src="images/Golang.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
@@ -61,7 +62,6 @@
   <!-- <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code> -->
   <!-- <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <!-- <code><img title="Java" height="25" src="images/java-original.svg"></code> -->
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <!-- <code><img title="Unity" height="25" src="images/unity3d.svg"></code> -->
   <!-- <code><img title="Android" height="25" src="images/android.svg"></code> -->
